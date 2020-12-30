@@ -25,3 +25,5 @@ function disco() {
   }
   setTimeout('disco()', 1)
 }
+
+window.addEventListener('load', disco)
