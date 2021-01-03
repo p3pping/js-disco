@@ -4,7 +4,7 @@ WARNING: This script may potentially trigger seizures for people with photosensi
 
 Like to party?
 Want to relive Saturday Night Fever at your desk?
-Looking to really freak out you coworkers when asking for help fixing a bug?
+Looking to really freak out your coworkers when asking for help fixing a bug?
 Then this is the script for you!
 
 Pull this script in into your project and let the magic happen.
